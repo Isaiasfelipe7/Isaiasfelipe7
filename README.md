@@ -7,7 +7,7 @@
 
 ![Isaias GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiasfelipe7&show_icons=true&theme=dracula)
 
-### Tecnologias 📚
+### Technologies 📚
 
 <div style="diplay: inline_block"><br>
     <img  aling ="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5">
