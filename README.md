@@ -17,3 +17,4 @@
     <img  aling ="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
+![snake gif](https://github.com/isaiasfelipe7/isaiasfelipe7/blob/output/github-contribution-grid-snake.svg)
